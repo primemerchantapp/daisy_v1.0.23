@@ -121,7 +121,7 @@ Your role: ensure seamless clinical communication and documentation, acting as t
   },
   AUDIO: {
     INPUT_SAMPLE_RATE: 16000,
-    OUTPUT_SAMPLE_RATE: 25000,
+    OUTPUT_SAMPLE_RATE: 24000,
     BUFFER_SIZE: 7680,
     CHANNELS: 1,
   },
